@@ -1,0 +1,1 @@
+vec = [sqrt(15) * 10^3, 25 / (10 - 6^2), log(35 / 0.43), 129 * sin(deg2rad(65)) / cos(deg2rad(80)), cos(pi / 20)^2]
